@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Outfit:wght@100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1rem;
+  font-family: "Figtree", sans-serif;
+  background: #f4d04f;
+}
+.card {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1em;
+}
+
+.card-content {
+  width: 23em;
+  height: auto;
+  background: #fff;
+  border: 2px solid rgb(46, 46, 46);
+  border-radius: 20px;
+  box-shadow: 7px 10px 2px black;
+  padding: 1em;
+}
+
+.card-content img {
+  width: 100%;
+  height: 40%;
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+}
+
+.btn {
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 0.5em 0.8em;
+  border: none;
+  border-radius: 4px;
+  background: #f4d04f;
+  margin-top: 1.5em;
+}
+
+.time-disc {
+  font-weight: bold;
+  margin-top: 1em;
+}
+
+.card-title {
+  margin: 0.8em 0;
+  font-weight: bold;
+}
+
+.card-title:hover {
+  cursor: pointer;
+  color: #f4d04f;
+}
+
+.card-disc {
+  color: #707070;
+  line-height: 23px;
+  margin: 1em 0;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.profile img {
+  width: 2em;
+  height: 2em;
+  border-radius: 50%;
+  background-position: center;
+  background-size: cover;
+  margin-right: 0.6em;
+}
+.person-name {
+  font-weight: 800;
+}
