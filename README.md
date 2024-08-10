@@ -6,8 +6,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Link]()
-- Live Site URL: [Link]()
+- Solution : [Link](https://github.com/roobiwebdev/Blog-preview-card)
+- Live Site : [Link](https://roobiwebdev.github.io/Blog-preview-card)
 
 ## My process
 
